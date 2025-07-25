@@ -185,6 +185,6 @@ MIT © [Your Name]
 
 ## Support
 
-If you like this project, please give it a ⭐️ on GitHub!
+If you like this project, please give it a ⭐️ on GitHub! https://github.com/wowdevapp/react-comment-system
 
-For issues and feature requests, please [create an issue](https://github.com/yourusername/react-comment-system/issues).
+For issues and feature requests, please [create an issue](https://github.com/wowdevapp/react-comment-system/issues).
